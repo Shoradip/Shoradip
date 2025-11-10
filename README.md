@@ -14,10 +14,16 @@ I'm a **Computer Science** student at **Wilfrid Laurier University** with a stro
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python, C, C++, JavaScript, SQL, ARM Assembly
 - **Web Development:** React, Node.js, HTML, CSS, TailwindCSS
-- **Databases:** MySQL, MongoDB, Firebase
+- **Databases:** MySQL, MongoDB, Firebase, PostgreSQL, SQLite
+- **Data Engineering & ETL:** 
+  - Pandas (Data Transformation & Analysis)
+  - SQLAlchemy (Database ORM & Management)
+  - ETL Pipeline Development
+  - Data Warehousing & Star Schema Design
+  - REST API Integration
+  - Data Cleaning & Validation
 - **Tools & Platforms:** Git, GitHub, Docker, Linux, AWS, Eclipse, VS Code
 - **Hardware & Low-Level Programming:** Digital Logic Design, Embedded Systems, ARM Assembly
-
 ## 🌟 Current Projects
 - 🔗 **Peer-to-Peer Study Platform** (A collaborative learning platform for students)
 - 🏋️ **MetaGym** (A fitness app designed to track workouts and progress)
